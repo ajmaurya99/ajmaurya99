@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Aj Maurya
-💬 Ask me about ...  Anything WordPress!
+💬 Ask me anything WordPress!
 
 <!--
 **ajmaurya99/ajmaurya99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
