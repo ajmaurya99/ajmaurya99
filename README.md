@@ -33,6 +33,18 @@
   <img alt="Twitter API" src="https://img.shields.io/badge/-Twitter_API-2088FF?style=flat-square&logo=twitter&logoColor=white" />
 </p>
 
+### <img src="https://www.flaticon.com/svg/static/icons/svg/270/270832.svg" width="20"/>  WordPress Plugins and useful snippets:
+
+|Repo|Description|
+|---|---|
+| [single-post-export](https://github.com/ajmaurya99/single-post-export) | This Plugin allows you to Export Single posts for classic editor. |
+| [autoptimize-cache-notifier](https://github.com/ajmaurya99/autoptimize-cache-notifier) | Autoptimize Cache Notifier sends an email notification when the Autoptimize cache size exceeds 50% and 80%. |
+| [primary-category-project](https://github.com/ajmaurya99/primary-category-project) | This plugin allows to select a primary category for posts and custom post types. |
+| [wp-rupeefont](https://github.com/ajmaurya99/wp-rupeefont) | WP RupeeFont is a plugin used to add Indian Rupee Symbol on your WordPress blog or Website. It converts all the Rs / Rs. symbol to Indian Rupee Symbol. |
+| [Fetch-Tweets-WordPress-Plugin](https://github.com/ajmaurya99/Fetch-Tweets-WordPress-Plugin) | Use this Plugin to fetch tweets from a particular handle, Also saves the tweets into the database. |
+
+
+
 📫 How to reach me:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/aalootechie/) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ajaymauryaa/)
