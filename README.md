@@ -4,6 +4,9 @@
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/270/270832.svg" width="13"/>  I'm currently working on some WordPress related stuff.
 
+<img src="https://www.flaticon.com/svg/static/icons/svg/1906/1906607.svg" width="16"/> Checkout my [Portfolio](https://github.com/ajmaurya99/portfolio/blob/master/README.md)
+
+
 <h3>Things I code with</h3>
 <p>
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-46a2f1?style=flat-square&logo=wordpress&logoColor=white" />
