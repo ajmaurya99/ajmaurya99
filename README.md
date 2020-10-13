@@ -6,6 +6,8 @@
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/1906/1906607.svg" width="16"/> Checkout my [Portfolio](https://github.com/ajmaurya99/portfolio/blob/master/README.md)
 
+<img src="https://www.flaticon.com/svg/static/icons/svg/25/25471.svg" width="16"/> Checkout my [Gist Profile](https://gist.github.com/ajmaurya99)
+
 
 <h3>Things I code with</h3>
 <p>
